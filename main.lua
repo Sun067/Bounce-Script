@@ -30,9 +30,9 @@ local function showNotification()
 
     StarterGui:SetCore("SendNotification", {
 
-        Title = "ระบบ Trimp", -- หัวข้อ
+        Title = "ระบบ เด้งตัวขึ้น ทำโดย siw", -- หัวข้อ
 
-        Text = "Trimp UP ทำงานแล้วค่ะ", -- ข้อความที่ต้องการ
+        Text = "ระบบ เด้งตัว ทำงานเสร็จสิ้น", -- ข้อความที่ต้องการ
 
         Duration = 3, -- แสดงค้างไว้กี่วินาที
 
@@ -70,7 +70,7 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
 
         
 
-        print("Trimp UP Activated!")
+        print("ทำงานเสร็จสิ้น สคริปโดย siw")
 
     end
 
