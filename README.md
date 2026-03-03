@@ -1,0 +1,3 @@
+This Script For Evade And ALl Map -> GAME ROBLOX 
+
+[ GOOD LUCK THANK FOR USE MY SCRIPT ]
